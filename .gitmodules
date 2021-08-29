@@ -7,3 +7,6 @@
 [submodule "monodepth/monodepth2"]
 	path = monodepth/monodepth2
 	url = https://github.com/roxanneluo/monodepth2.git
+[submodule "third_party/OpticalFlowToolkit"]
+	path = third_party/OpticalFlowToolkit
+	url = https://github.com/insertiq-organisation/OpticalFlowToolkit
