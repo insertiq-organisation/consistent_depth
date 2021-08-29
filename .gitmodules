@@ -10,3 +10,6 @@
 [submodule "third_party/OpticalFlowToolkit"]
 	path = third_party/OpticalFlowToolkit
 	url = https://github.com/insertiq-organisation/OpticalFlowToolkit
+[submodule "third_party/colmap"]
+	path = third_party/colmap
+	url = https://github.com/insertiq-organisation/colmap
