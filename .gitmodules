@@ -13,3 +13,6 @@
 [submodule "third_party/colmap"]
 	path = third_party/colmap
 	url = https://github.com/insertiq-organisation/colmap
+[submodule "third_party/flownet2"]
+	path = third_party/flownet2
+	url = https://github.com/insertiq-organisation/flownet2-pytorch.git
