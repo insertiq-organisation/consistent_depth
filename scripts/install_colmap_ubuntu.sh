@@ -44,7 +44,7 @@ git checkout dev
 git checkout tags/3.6-dev.3 -b dev-3.6
 mkdir build
 cd build
-cmake .. --DCMAKE_CXX_STANDARD=14
+cmake .. -DCMAKE_CXX_STANDARD=14
 make
 sudo make install
 CC=/usr/bin/gcc-6 CXX=/usr/bin/g++-6 cmake ..
